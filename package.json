@@ -8,6 +8,6 @@
   "license": "MIT",
   "repository": "https://github.com/cebertowicz/recipe-evernote",
   "config": {
-    "serviceURL": "https://www.evernote.com"
+    "serviceURL": "https://www.evernote.com/Home.action"
   }
 }
