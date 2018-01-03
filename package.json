@@ -1,0 +1,13 @@
+{
+  "id": "recipe-evernote",
+  "name": "Evernote",
+  "version": "1.0.1",
+  "description": "Evernote",
+  "main": "index.js",
+  "author": "Steve Cebertowicz <s.cebertowicz@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/cebertowicz/recipe-evernote",
+  "config": {
+    "serviceURL": "https://www.evernote.com"
+  }
+}
